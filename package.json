@@ -1,0 +1,32 @@
+{
+  "name": "webpack-runner",
+  "version": "0.0.0",
+  "description": "Run any JavaScript-transpilable language in Node with Webpack",
+  "main": "src/index.js",
+  "author": "TheoryOfNekomata <allan.crisostomo@outlook.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "nodemon": "^1.18.9",
+    "webpack": "^4.28.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temoto-kun/node-webpack-runner.git"
+  },
+  "keywords": [
+    "Webpack",
+    "runner",
+    "ES6",
+    "JSX",
+    "Babel"
+  ],
+  "bugs": {
+    "url": "https://github.com/Temoto-kun/node-webpack-runner/issues"
+  },
+  "homepage": "https://github.com/Temoto-kun/node-webpack-runner#readme"
+}
